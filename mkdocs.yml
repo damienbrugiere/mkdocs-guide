@@ -1,0 +1,11 @@
+site_name: Guide utilisateur
+theme: 
+  name: dracula
+  shortcuts:
+    help: 191
+    next: 78
+    previous: 80
+    search: 83
+  locale: fr
+site_url: ""
+use_directory_urls: False
